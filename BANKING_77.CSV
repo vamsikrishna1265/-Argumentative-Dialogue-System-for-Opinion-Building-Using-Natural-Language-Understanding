@@ -1,0 +1,184 @@
+Intent,Example Query
+account_balance,What is my account balance?
+account_closing,I want to close my account
+account_opening,How can I open a new bank account?
+credit_card_block,I lost my credit card, can you block it?
+transaction_history,Can I get a list of all my transactions for this month?
+loan_information,Tell me about personal loan options
+fund_transfer,I want to transfer money to another account
+loan_repayment,How can I repay my loan?
+atm_withdrawal,Where can I withdraw money from an ATM?
+credit_score_check,Check my credit score
+branch_locator,Find the nearest branch to me
+online_banking,How can I access online banking?
+bank_statement_request,I need a bank statement for last month
+debit_card_block,Block my debit card immediately
+mortgage_payment,How can I make my mortgage payment?
+bill_payment,Pay my electricity bill
+account_verification,How do I verify my account?
+savings_account_info,Give me information about savings accounts
+interest_rates,What are the current interest rates?
+transaction_dispute,I need to dispute a transaction
+loan_status,Check the status of my loan application
+personal_loan,How do I apply for a personal loan?
+credit_card_apply,How can I apply for a new credit card?
+loan_interest,What is the interest rate on a home loan?
+atm_pin_change,How do I change my ATM PIN?
+account_statement,Send me my account statement for the last 6 months
+account_balance_check,What is the balance in my checking account?
+international_transfer,Can I make an international wire transfer?
+deposit_check,How do I deposit a check into my account?
+credit_card_payment,When is my credit card payment due?
+loan_approval,Is my loan application approved?
+customer_service,Connect me to customer service
+bank_loan,How do I apply for a bank loan?
+online_transaction,How can I make an online payment?
+card_replacement,My debit card is damaged, how do I get a replacement?
+check_balance,What is my balance right now?
+transfer_money,How do I transfer money to another account?
+personal_account,How do I access my personal account online?
+wire_transfer,Can you help me with a wire transfer?
+refund_request,I want to request a refund for a transaction
+new_credit_card,Can I get a new credit card with a higher limit?
+loan_calculator,What would be my monthly payment for a $100,000 loan?
+atm_location,Where is the nearest ATM to me?
+mobile_banking,How do I set up mobile banking?
+transaction_alert,How do I set up transaction alerts?
+overdraft_protection,What is overdraft protection and how do I get it?
+balance_enquiry,Can I check my balance online?
+credit_card_statement,Send me my credit card statement
+banking_app,How can I download the banking app?
+payment_history,Can I get my payment history for the last year?
+funds_available,When will my deposit be available for withdrawal?
+bank_account_verification,How do I verify my bank account?
+debit_card_limit,How do I increase my debit card limit?
+savings_plan,What is the best savings plan you offer?
+check_deposit,Can I deposit a check through the mobile app?
+loan_terms,What are the terms of my car loan?
+transaction_fee,What are the fees for transferring money internationally?
+bank_location,Where is the closest bank branch to me?
+mobile_wallet,How do I set up mobile wallet payments?
+credit_limit_increase,Can I increase my credit card limit?
+mortgage_loan,Can I apply for a mortgage loan online?
+bank_card_support,How can I get support for my bank card?
+tax_loan,How do I apply for a tax loan?
+fraud_alert,I think I have been a victim of fraud, what should I do?
+account_frozen,Why has my account been frozen?
+daily_spending,What is my daily spending limit on my card?
+interest_calculation,How is interest calculated on my savings account?
+savings_account_rate,What is the interest rate on a savings account?
+investment_opportunity,Do you offer investment opportunities?
+early_loan_repayment,Can I pay off my loan early without a penalty?
+auto_loan,How do I apply for an auto loan?
+currency_exchange,Can I exchange currency at the bank?
+online_banking_login,How do I log into online banking?
+transaction_failure,Why did my transaction fail?
+branch_hours,What are the working hours of the nearest branch?
+payment_plan,What are the options for setting up a payment plan for my loan?
+credit_approval,How long does it take to get credit approval?
+pay_bill_online,How can I pay my bills online?
+account_balance_update,How do I update my account balance?
+auto_deposit,How can I set up an automatic deposit for my salary?
+payment_status,Is my bill payment processed?
+bank_opening,What time does the bank open tomorrow?
+monthly_statement,Can I get a monthly statement for my credit card?
+loan_disbursement,When will my loan be disbursed?
+account_freeze,How can I freeze my bank account temporarily?
+loan_refinancing,Can I refinance my current loan?
+rejected_transaction,Why was my card transaction declined?
+credit_score_report,Can I get my credit score report?
+new_atm_card,How do I get a new ATM card?
+card_activation,How do I activate my new debit card?
+bank_branch_service,What services are available at your bank branch?
+credit_loan,How do I apply for a credit loan?
+tax_information,How can I get my tax-related bank information?
+transaction_limit,What is the maximum transaction limit for my debit card?
+loan_approval_status,Has my loan been approved yet?
+account_lock,Why is my account locked?
+card_expiry,When does my credit card expire?
+direct_deposit,How can I set up direct deposit for my salary?
+account_transfer,Can I transfer money between my accounts?
+credit_card_billing_date,When is my credit card bill due?
+new_debit_card,How can I get a new debit card?
+online_bill_payment,How do I pay my bills online using my bank account?
+disputed_transaction,How do I dispute a transaction on my account?
+bank_loan_rate,What is the interest rate on bank loans?
+mortgage_refinancing,Can I refinance my mortgage loan?
+debit_card_fraud,My debit card has been used fraudulently, what should I do?
+overdraft_fee,What are the fees for overdrawing my account?
+loan_repayment_schedule,Can you provide a repayment schedule for my loan?
+bank_statement_pdf,Can you send me my bank statement in PDF format?
+atm_usage,How do I use an ATM for withdrawals and deposits?
+account_details,How do I update my account details?
+loan_status_update,Can I get an update on the status of my loan application?
+card_security,How do I secure my bank card against fraud?
+account_balance_alert,Can I set up an alert for low balance in my account?
+deposit_details,How can I check the details of my deposit?
+credit_loan_terms,What are the terms for a credit loan at your bank?
+bank_savings_account,How do I open a savings account at the bank?
+minimum_balance,What is the minimum balance required for my account?
+atm_card_activation,How do I activate my new ATM card?
+pre_approval_loan,How do I get pre-approved for a loan?
+credit_limit_decrease,Why did my credit limit decrease?
+automated_transfer,How can I set up an automated transfer for my bills?
+bank_fee_structure,Can you tell me about the bank's fee structure?
+loan_payment_option,What are the options for repaying my loan?
+mortgage_calculator,Can you provide a mortgage payment calculator?
+business_account,How do I open a business account at your bank?
+checking_account_info,What are the benefits of a checking account?
+account_statement_summary,Can I get a summary of my last 6 months’ statements?
+joint_account,How do I open a joint account with my spouse?
+transaction_report,Can I get a detailed report of my transactions for the last year?
+loan_penalty,What are the penalties for missing a loan repayment?
+loan_payment_extension,Can I extend the due date for my loan payment?
+rewards_program,Do you have a rewards program for credit card holders?
+bank_card_security,How do I secure my bank card from unauthorized use?
+account_activity,How do I monitor my account activity?
+payoff_balance,Can I get the payoff balance for my loan?
+credit_check,How do I check my credit history through the bank?
+transfer_limit,What is the maximum limit for online bank transfers?
+foreign_exchange,Do you offer foreign exchange services?
+refund_policy,What is the bank’s refund policy for disputed transactions?
+interest_on_savings,How is interest calculated on my savings account?
+lost_card,What do I do if my card is lost or stolen?
+loan_consolidation,Can I consolidate my loans through the bank?
+request_deposit_slip,Can I get a copy of my deposit slip?
+account_upgrade,How do I upgrade my account to a premium account?
+mobile_banking_support,How can I get support for mobile banking issues?
+debt_management,Can I get help with managing my debt?
+personal_savings_plan,What savings plan do you offer for personal accounts?
+transaction_success,How do I know if my bank transaction was successful?
+bill_payment_history,Can I see my bill payment history?
+daily_limit,What is the daily withdrawal limit for my ATM card?
+foreign_transfer,Can I send money abroad using my account?
+new_loan_application,How can I apply for a new loan?
+monthly_loan_payment,What will be my monthly loan payment for $10,000?
+small_business_loan,Do you offer loans for small businesses?
+loan_default,What happens if I default on my loan payment?
+auto_loan_terms,What are the terms of your auto loans?
+home_loan_rates,What are your home loan rates?
+branch_services,What services do you offer at the nearest branch?
+credit_card_limit,How do I check the limit on my credit card?
+loan_payment_methods,What are the different ways to repay my loan?
+saving_account_withdrawal,How can I withdraw money from my savings account?
+recurrent_payment,Can I set up recurrent payments for my subscription services?
+daily_limit_increase,Can I increase my daily ATM withdrawal limit?
+bank_referral_program,Do you have a referral program for new customers?
+payment_due_date,When is my next loan payment due?
+bank_policy,Can you explain the bank’s privacy and security policy?
+credit_score_improvement,How can I improve my credit score?
+transaction_status,How can I check the status of my transaction?
+atm_card_problem,My ATM card is malfunctioning, how do I resolve it?
+money_transfer_service,Do you offer money transfer services to other countries?
+overdraft_protection_plan,How do I sign up for overdraft protection?
+loan_estimation,Can you estimate my monthly payments for a $50,000 loan?
+checking_account_opening,How do I open a checking account at your bank?
+banking_fees,What are the fees for using your banking services?
+bank_terms_conditions,Where can I find your bank’s terms and conditions?
+fraud_prevention,What fraud prevention measures do you offer?
+emergency_funds,Can I withdraw emergency funds from my account?
+account_type_change,Can I change my account type to a premium account?
+bill_payment_via_phone,Can I pay bills through the phone banking service?
+interest_rate_query,What is the current interest rate for personal loans?
+loan_repayment_help,Can you help me figure out how to repay my loan?
+payment_failure,Why did my payment not go through?
